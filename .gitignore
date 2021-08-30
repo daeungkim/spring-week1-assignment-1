@@ -2,10 +2,14 @@
 .gradle
 **/build/
 !src/**/build/
+bin
 caches
 daemon
 native
 notifications
+.project
+.settings
+.classpath
 
 # Ignore Gradle build output directory
 build
